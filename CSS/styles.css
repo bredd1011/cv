@@ -43,7 +43,6 @@ a:hover {
 .middle1 {
     position: relative;
     background-color: #B0DAFF;
-    height: 700px;
 }
 
 .middle2 {
@@ -69,55 +68,55 @@ a:hover {
 
 #star1 {
     position: absolute;
-    left: 150px;
-    top: 50px;
-    height: 100px;
-    width: 100px;
+    left: 1%;
+    top: 5%;
+    max-height: 10%;
+    max-width: 10%;
     background-color: AliceBlue;
 }
 
 #star2 {
     position: absolute;
-    right: 150px;
-    top: 50px;
-    height: 100px;
-    width: 100px;
+    right: 1%;
+    top: 5%;
+    max-height: 10%;
+    max-width: 10%;
     background-color: AliceBlue;
 }
 
 #star3 {
     position: absolute;
-    left: 150px;
-    bottom: 50px;
-    height: 100px;
-    width: 100px;
+    left: 1%;
+    bottom: 5%;
+    max-height: 10%;
+    max-width: 10%;
     background-color: AliceBlue;
 }
 
 #star4 {
     position: absolute;
-    right: 150px;
-    bottom: 50px;
-    height: 100px;
-    width: 100px;
+    right: 1%;
+    bottom: 5%;
+    max-height: 10%;
+    max-width: 10%;
     background-color: AliceBlue;
 }
 
 #data1 {
     position: absolute;
     left: 1%;
-    top: 275px;
-    height: 200px;
-    width: 300px;
+    top: 40%;
+    max-height: 25%;
+    max-width: 25%;
     background-color: AliceBlue;
 }
 
 #data2{
     position: absolute;
     right: 1%;
-    top: 275px;
-    height: 200px;
-    width: 200px;
+    top: 32%;
+    max-height: 25%;
+    max-width: 25%;
     background-color: AliceBlue;
 }
 
