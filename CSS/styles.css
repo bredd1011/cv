@@ -53,6 +53,7 @@ a:hover {
 .middle3 {
     position: relative;
     background-color: #B0DAFF;
+    font-size: 20px;
 }
 
 .bottom {
@@ -133,7 +134,7 @@ a:hover {
 .summary-table {
     margin-bottom: 0;
     padding-top: 0;
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
 }
 
@@ -160,7 +161,7 @@ a:hover {
     padding-top: 0;
     margin-left: auto;
     margin-right: auto;
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
 }
 
