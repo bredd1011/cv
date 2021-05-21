@@ -1,0 +1,202 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Kodchasan', sans-serif;
+    font-size: 30px;
+    color: #444648;
+    background-color: AliceBlue;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Satisfy', cursive;
+    color: #444648;
+}
+
+h2 {
+    margin-top: 0;
+    font-family: 'Bungee Inline', cursive;
+    margin-bottom:0;
+}
+
+h3 {
+    margin-top: 0;
+    font-family: 'Bungee Inline', cursive;
+    margin-bottom:0;
+}
+
+a {
+    color: #898D91;
+}
+
+a:hover {
+    color: GoldenRod
+}
+
+.top {
+    position: relative;
+    background-color: AliceBlue;
+    padding-top: 50px;
+    height: 700px
+}
+
+.middle1 {
+    position: relative;
+    background-color: #B0DAFF;
+    height: 700px;
+}
+
+.middle2 {
+    position: relative;
+    background-color: AliceBlue;
+}
+
+.middle3 {
+    position: relative;
+    background-color: #B0DAFF;
+}
+
+.bottom {
+    position: relative;
+    background-color: #FFCEA3;
+    font-size: 20px;
+    padding-bottom: 25px;
+}
+
+.Intelligence {
+    text-decoration: underline;
+}
+
+#star1 {
+    position: absolute;
+    left: 150px;
+    top: 50px;
+    height: 100px;
+    width: 100px;
+    background-color: AliceBlue;
+}
+
+#star2 {
+    position: absolute;
+    right: 150px;
+    top: 50px;
+    height: 100px;
+    width: 100px;
+    background-color: AliceBlue;
+}
+
+#star3 {
+    position: absolute;
+    left: 150px;
+    bottom: 50px;
+    height: 100px;
+    width: 100px;
+    background-color: AliceBlue;
+}
+
+#star4 {
+    position: absolute;
+    right: 150px;
+    bottom: 50px;
+    height: 100px;
+    width: 100px;
+    background-color: AliceBlue;
+}
+
+#data1 {
+    position: absolute;
+    left: 175px;
+    top: 275px;
+    height: 200px;
+    width: 300px;
+    background-color: AliceBlue;
+}
+
+#data2{
+    position: absolute;
+    right: 250px;
+    top: 275px;
+    height: 200px;
+    width: 200px;
+    background-color: AliceBlue;
+}
+
+#headshot {
+    width: 300px;
+    height: 300px;
+}
+
+.data-bullet {
+    width: 50px;
+    height: 50px;
+}
+
+.summary-table {
+    margin-bottom: 0;
+    padding-top: 0;
+    font-size: 25px;
+    text-align: left;
+}
+
+#tableau {
+    position: absolute;
+    left: 450px;
+    bottom: 50px;
+    width: 200px;
+    height: 200px;
+}
+
+#powerBI {
+    position: absolute;
+    right: 400px;
+    bottom: 50px;
+    width: 400px;
+    height: 200px;
+    background: #B0DAFF;
+}
+
+.work-table {
+    margin-bottom: 0;
+    padding-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    text-align: left;
+}
+
+.connect {
+    margin-top: 0;
+}
+
+#linked-in {
+    position: absolute
+    padding-top: 30px;
+    background-color: #FFCEA3;
+    height: 50px;
+    width: 50px;
+}
+
+.hobbies {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#fam {
+    height: 300px;
+    width: 448px;
+}
+
+#grill {
+    height: 300px;
+    width: 300px;
+}
+
+#luka {
+    height: 300px;
+    width: 300px;
+}
+
+#learning {
+    height: 300px;
+    width: 300px;
+}
