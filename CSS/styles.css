@@ -2,24 +2,36 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Kodchasan', sans-serif;
-    font-size: 30px;
+    font-size: 1.9em;
     color: #444648;
     background-color: AliceBlue;
 }
 
 h1 {
+    font-size: 3em;
     margin-top: 0;
+    margin-bottom: 0;
     font-family: 'Satisfy', cursive;
     color: #444648;
 }
 
-h2 {
+#p1 {
     margin-top: 0;
+}
+
+h2 {
+    line-height: 1.5;
+    font-weight: normal;
+    margin-top: 0;
+    font-size: 1.75em;
     font-family: 'Bungee Inline', cursive;
     margin-bottom:0;
 }
 
 h3 {
+    line-height: 1.5;
+    font-weight: normal;
+    font-size: 1.5em;
     margin-top: 0;
     font-family: 'Bungee Inline', cursive;
     margin-bottom:0;
@@ -53,18 +65,14 @@ a:hover {
 .middle3 {
     position: relative;
     background-color: #B0DAFF;
-    font-size: 20px;
+    font-size: .75em;
 }
 
 .bottom {
     position: relative;
     background-color: #FFCEA3;
-    font-size: 20px;
+    font-size: .6em;
     padding-bottom: 25px;
-}
-
-.Intelligence {
-    text-decoration: underline;
 }
 
 #star1 {
@@ -122,19 +130,20 @@ a:hover {
 }
 
 #headshot {
-    width: 300px;
-    height: 300px;
+    width: 9.8em;
+    height: 9.8em;
 }
 
 .data-bullet {
-    width: 50px;
-    height: 50px;
+    width: 3em;
+    height: 3em;
 }
 
 .summary-table {
+    margin-top: 0;
     margin-bottom: 0;
     padding-top: 0;
-    font-size: 20px;
+    font-size: .7em;
     text-align: left;
 }
 
@@ -147,13 +156,13 @@ a:hover {
 }
 
 #tableau {
-    width: 200px;
-    height: 200px;
+    width: 6em;
+    height: 6em;
 }
 
 #powerBI {
-    width: 400px;
-    height: 200px;
+    width: 10em;
+    height: 5em;
 }
 
 .work-table {
@@ -161,7 +170,7 @@ a:hover {
     padding-top: 0;
     margin-left: auto;
     margin-right: auto;
-    font-size: 20px;
+    font-size: .9em;
     text-align: left;
 }
 
@@ -176,8 +185,7 @@ a:hover {
 }
 
 .hobbies {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0;
 }
 
 #fam {
@@ -186,17 +194,17 @@ a:hover {
 }
 
 #grill {
-    height: 300px;
-    width: 300px;
+    height: 10em;
+    width: 10em;
 }
 
 #luka {
-    height: 300px;
-    width: 300px;
+    height: 10em;
+    width: 10em;
 }
 
 #learning {
-    height: 300px;
-    width: 300px;
+    height: 10em;
+    width: 10em;
 }
 
