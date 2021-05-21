@@ -185,7 +185,13 @@ a:hover {
 }
 
 .hobbies {
-    margin-left: 0;
+    margin-left: 4em;
+}
+
+.hobby-text {
+    width: .75em;
+    text-align: left;
+    padding-left: 1em;
 }
 
 #fam {
@@ -193,18 +199,33 @@ a:hover {
     width: 448px;
 }
 
+#weights {
+    padding-left: 6em;
+    height: 9em;
+    width: 9em;
+}
+
 #grill {
-    height: 10em;
-    width: 10em;
+
+    padding-left: 4em;
+    height: 9em;
+    width: 9em;
+}
+
+#dining {
+    padding-left: 6em;
+    height: 9em;
+    width: 9em;
 }
 
 #luka {
-    height: 10em;
-    width: 10em;
+    padding-left: 6em;
+    height: 9em;
+    width: 9em;
 }
 
 #learning {
-    height: 10em;
-    width: 10em;
+    padding-left: 6em;
+    height: 9em;
+    width: 9em;
 }
-
