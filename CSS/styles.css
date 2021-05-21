@@ -104,8 +104,8 @@ a:hover {
 
 #data1 {
     position: absolute;
-    left: 1%;
-    top: 40%;
+    left: 10%;
+    top: 60%;
     max-height: 25%;
     max-width: 25%;
     background-color: AliceBlue;
@@ -113,8 +113,8 @@ a:hover {
 
 #data2{
     position: absolute;
-    right: 1%;
-    top: 32%;
+    right: 10%;
+    top: 55%;
     max-height: 25%;
     max-width: 25%;
     background-color: AliceBlue;
