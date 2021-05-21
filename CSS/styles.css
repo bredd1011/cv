@@ -178,6 +178,10 @@ a:hover {
     margin-top: 0;
 }
 
+#linked-in:hover {
+    opacity: 75%;
+}
+
 #linked-in {
     background-color: #FFCEA3;
     height: 50px;
@@ -233,4 +237,12 @@ a:hover {
 
 .copyright {
     margin-bottom: 0;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.blank-space {
+    visibility: hidden;
 }
