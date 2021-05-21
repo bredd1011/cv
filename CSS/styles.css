@@ -105,7 +105,7 @@ a:hover {
 
 #data1 {
     position: absolute;
-    left: 175px;
+    left: 1%;
     top: 275px;
     height: 200px;
     width: 300px;
@@ -114,7 +114,7 @@ a:hover {
 
 #data2{
     position: absolute;
-    right: 250px;
+    right: 1%;
     top: 275px;
     height: 200px;
     width: 200px;
@@ -138,21 +138,22 @@ a:hover {
     text-align: left;
 }
 
+.bi-images {
+    margin-bottom: 0;
+    padding-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
 #tableau {
-    position: absolute;
-    left: 450px;
-    bottom: 50px;
     width: 200px;
     height: 200px;
 }
 
 #powerBI {
-    position: absolute;
-    right: 400px;
-    bottom: 50px;
     width: 400px;
     height: 200px;
-    background: #B0DAFF;
 }
 
 .work-table {
@@ -198,3 +199,4 @@ a:hover {
     height: 300px;
     width: 300px;
 }
+
