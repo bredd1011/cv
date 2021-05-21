@@ -72,7 +72,7 @@ a:hover {
     position: relative;
     background-color: #FFCEA3;
     font-size: .6em;
-    padding-bottom: 25px;
+    padding-bottom: .2em;
 }
 
 #star1 {
@@ -229,4 +229,8 @@ a:hover {
     padding-left: 3em;
     height: 9em;
     width: 9em;
+}
+
+.copyright {
+    margin-bottom: 0;
 }
